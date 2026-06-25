@@ -1,0 +1,14 @@
+# Dataset — download from Kaggle, not redistributed (see README)
+CC GENERAL.csv
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build artifacts
+Proposal.html
